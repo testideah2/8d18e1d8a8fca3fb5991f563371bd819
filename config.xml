@@ -5,12 +5,12 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "su.lavito"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. lavito.su</name>
 
     <description>
-        Доска объявлений
+        Доска объявлений в Луганске и Донецке
     </description>
 
     <author>Tadapp</author>
@@ -30,7 +30,7 @@
     <preference name='WindowsToastCapable' value='true' />
 
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="SplashScreenSpinnerColor" value="#007BFF" />
+    <preference name="SplashScreenSpinnerColor" value="#0098D0" />
     
     <platform name="android">
       <edit-config file="app/src/main/AndroidManifest.xml" mode="merge" target="/manifest/application">
@@ -40,17 +40,17 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/75849cad9f17ec1017fd52f16dc84a6a.png" density="ldpi" />
-        <icon src="res/android/icon/367a5482d7065828494d3d55d577e1b9.png" density="mdpi" />
-        <icon src="res/android/icon/d363d3377a824d77789c7f8c9149a864.png" density="hdpi" />
-        <icon src="res/android/icon/541f354c28751f1b3ae78a65af37d39e.png" density="xhdpi" />
-        <icon src="res/android/icon/551edb934e55bea08eb9dbd6a979ebb5.png" density="xxhdpi" />
-        <icon src="res/android/icon/0eb8fed549a960ed212072ed8d5c85a8.png" density="xxxhdpi" />
+        <icon src="res/android/icon/7cec6657c6c9c6b4065f1fd9cef1ef6a.png" density="ldpi" />
+        <icon src="res/android/icon/1327468378d1c76e39444ae3ec5c79ef.png" density="mdpi" />
+        <icon src="res/android/icon/e00943f24f474ca6ebbc14491d70c3ae.png" density="hdpi" />
+        <icon src="res/android/icon/21515f7feaf181f1a095530cdd1120d8.png" density="xhdpi" />
+        <icon src="res/android/icon/a5c6396b7db06924286503a4d385fd1f.png" density="xxhdpi" />
+        <icon src="res/android/icon/ba651ca85359054d164af3ee6b191150.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/76e24a0116c6ef1859a3e5566cd339df.png" density="port-hdpi"/>
-        <splash src="res/android/screen/94cec358120e4a033e42cd7ced6ed8d9.png" density="port-ldpi"/>
-        <splash src="res/android/screen/897d61a98176fc2bd66d00eabcd4719e.png" density="port-mdpi"/>
-        <splash src="res/android/screen/0bd3bc02c88e3fca92f885732c424776.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/27d0c73082454d6d9e8995095b581419.png" density="port-hdpi"/>
+        <splash src="res/android/screen/7b0d5aa8f3c02e52f858c80ec1a6082b.png" density="port-ldpi"/>
+        <splash src="res/android/screen/c2f4c5b1557d3165ed0b62cb9ffe2182.png" density="port-mdpi"/>
+        <splash src="res/android/screen/0f7f3214cfc3e70ab2a822467a52d751.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
