@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "su.lavito"
         versionCode = "10"
-        version     = "1.3.0">
+        version     = "1.4.0">
 
     <name>ТЕСТ. lavito.su</name>
 
@@ -40,12 +40,12 @@
 
 
     <platform name="android">
-        <icon src="res/android/icon/1b3a0030e20afc33dbc1d8c4360c5201.png" density="ldpi" />
-        <icon src="res/android/icon/cad50348a5ff2e9fc5484b4a12f37f6c.png" density="mdpi" />
-        <icon src="res/android/icon/03bf152db072dce919043555fdad7321.png" density="hdpi" />
-        <icon src="res/android/icon/b81cb339fa92ab3087491c91fcdfb60b.png" density="xhdpi" />
-        <icon src="res/android/icon/6f0e802f05fd5ad596ce1ea3458e9355.png" density="xxhdpi" />
-        <icon src="res/android/icon/ba9a31a994da8ddf3a8e7261d33f8027.png" density="xxxhdpi" />
+        <icon src="res/android/icon/40431b4e060ea5df41cec6129ebcb18a.png" density="ldpi" />
+        <icon src="res/android/icon/6514cf79146c627f6ee13c42b0fd723f.png" density="mdpi" />
+        <icon src="res/android/icon/e403347d750e44918cb8962dfa04e2e6.png" density="hdpi" />
+        <icon src="res/android/icon/fd902a253b540c97e392054d37688340.png" density="xhdpi" />
+        <icon src="res/android/icon/8247698b311b3fd5a5401dbd39a02847.png" density="xxhdpi" />
+        <icon src="res/android/icon/3895fba46e2c94af721ba4dde0741d1b.png" density="xxxhdpi" />
 
         <splash src="res/android/screen/27d0c73082454d6d9e8995095b581419.png" density="port-hdpi"/>
         <splash src="res/android/screen/7b0d5aa8f3c02e52f858c80ec1a6082b.png" density="port-ldpi"/>
